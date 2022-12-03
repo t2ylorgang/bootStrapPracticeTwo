@@ -53,6 +53,19 @@ h1 {
     margin: auto;
 }
 
+/* Font Awesome Icons */
+.fa-circle-check {
+    color: #ff4c68;
+}
+
+.fa-bullseye {
+    color: #ff4c68;
+}
+
+.fa-heart {
+    color: #ff4c68;
+}
+
 /* Additional Media Queries */
 
 /* This css adds padding for the phone image when we move to smaller viewport and the columns change to 12 units */
@@ -60,4 +73,10 @@ h1 {
     .title-demo {
         padding: 3em 0em;
     }
+}
+
+/* Features */
+.features h3 {
+    font-weight: bold;
+    font-size: 1.5em;
 }
