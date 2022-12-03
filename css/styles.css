@@ -2,14 +2,6 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
-.nav-link {
-    color: white;
-}
-
-.navbar-brand {
-    margin-left: 0.3em;
-}
-
 #title {
     background-color: #ff4c68;
 }
@@ -19,7 +11,7 @@ h1 {
     font-size: 3.5rem;
     line-height: 1.5;
     font-weight: 900;
-    color: white;
+    color: #fff;
 }
 
 .container-fluid {
@@ -45,6 +37,7 @@ h1 {
 .nav-link {
     font-size: 1.2rem;
     font-weight: 150;
+    color: white;
 }
 
 /* Download Buttons */
@@ -56,4 +49,6 @@ h1 {
 .title-demo {
     transform: rotate(25deg);
     width: 60%;
+    display: block;
+    margin: auto;
 }
