@@ -52,3 +52,12 @@ h1 {
     display: block;
     margin: auto;
 }
+
+/* Additional Media Queries */
+
+/* This css adds padding for the phone image when we move to smaller viewport and the columns change to 12 units */
+@media (max-width: 991px) {
+    .title-demo {
+        padding: 3em 0em;
+    }
+}
