@@ -55,14 +55,26 @@ h1 {
 
 /* Font Awesome Icons */
 .fa-circle-check {
+    color: #d90f0f;
+}
+
+.fa-circle-check:hover {
     color: #ff4c68;
 }
 
 .fa-bullseye {
+    color: #d90f0f;
+}
+
+.fa-bullseye:hover {
     color: #ff4c68;
 }
 
 .fa-heart {
+    color: #d90f0f;
+}
+
+.fa-heart:hover {
     color: #ff4c68;
 }
 
