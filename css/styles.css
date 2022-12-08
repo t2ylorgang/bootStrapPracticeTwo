@@ -170,12 +170,6 @@ h2 {
     justify-content: space-around;
 }
 
-.copyright {
-    text-decoration;
-}
-
-
-/* why isn't this media query working???? */
 @media (max-width: 680px) {
     .icon-box {
         width: 50%;
