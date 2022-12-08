@@ -77,10 +77,19 @@ h2 {
 @media (max-width: 991px) {
     .title-demo {
         padding: 3em 0em;
+        transform: rotate(0deg);
+        width: 40%;
+    }
+    .title {
+        text-align: center;
     }
 }
 
 /* Features */
+.feature-box {
+    background-color: #fff;
+}
+
 .features h3 {
     font-weight: bold;
     font-size: 1.5em;
